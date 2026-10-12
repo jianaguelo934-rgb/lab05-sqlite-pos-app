@@ -1,0 +1,24 @@
+{
+  "expo": {
+    "name": "Payer",
+    "slug": "payer-android-12",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "scheme": "payer",
+    "newArchEnabled": true,
+    "userInterfaceStyle": "light",
+    "splash": {
+      "backgroundColor": "#F4F7FA"
+    },
+    "android": {
+      "package": "com.payer.android12",
+      "versionCode": 1,
+      "edgeToEdgeEnabled": true,
+      "compileSdkVersion": 36,
+      "targetSdkVersion": 36
+    },
+    "plugins": [
+      "expo-sqlite"
+    ]
+  }
+}
